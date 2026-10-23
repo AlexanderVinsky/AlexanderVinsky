@@ -7,7 +7,7 @@ My approach: record both data sources on one clock, define the event precisely, 
 ### Research
 
 - **How Long Do Stale Quotes Last? Measuring Latency Arbitrage Windows on XAUUSD at Three Retail Brokers** (working paper, 2026)  
-  DOI: [10.5281/zenodo.23364414](https://doi.org/10.5281/zenodo.23364414) · [Read on westernpips.com](https://westernpips.com/latency-arbitrage-data-study.html)
+  DOI: [10.5281/zenodo.23364414](https://doi.org/10.5281/zenodo.23364414) · SocArXiv preprint: [10.31235/osf.io/cg2yv_v1](https://doi.org/10.31235/osf.io/cg2yv_v1) · SSRN: [10.2139/ssrn.7655440](https://doi.org/10.2139/ssrn.7655440) · [Read on westernpips.com](https://westernpips.com/latency-arbitrage-data-study.html)
 
 ### Writing
 
@@ -20,7 +20,7 @@ Latency arbitrage · market microstructure · tick data analysis · quote latenc
 
 ### Profiles
 
-[ORCID](https://orcid.org/0009-0008-4021-3381) · [Google Scholar](https://scholar.google.com/citations?user=V1Mi7mAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/alexander-vinsky-342b80443/) · [X](https://x.com/AlexanderVinsky)
+[ORCID](https://orcid.org/0009-0008-4021-3381) · [Google Scholar](https://scholar.google.com/citations?user=V1Mi7mAAAAAJ) · [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=13610808) · [OSF](https://osf.io/s6gtz/) · [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0008-4021-3381%22) · [LinkedIn](https://www.linkedin.com/in/alexander-vinsky-342b80443/) · [X](https://x.com/AlexanderVinsky)
 
 ---
 
