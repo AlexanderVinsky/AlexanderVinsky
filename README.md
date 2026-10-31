@@ -8,6 +8,15 @@ My approach: record both data sources on one clock, define the event precisely, 
 
 - **How Long Do Stale Quotes Last? Measuring Latency Arbitrage Windows on XAUUSD at Three Retail Brokers** (working paper, 2026)  
   DOI: [10.5281/zenodo.23364414](https://doi.org/10.5281/zenodo.23364414) · SocArXiv preprint: [10.31235/osf.io/cg2yv_v1](https://doi.org/10.31235/osf.io/cg2yv_v1) · SSRN: [10.2139/ssrn.7655440](https://doi.org/10.2139/ssrn.7655440) · [Read on westernpips.com](https://westernpips.com/latency-arbitrage-data-study.html)
+- Code: [stale-quote-windows](https://github.com/AlexanderVinsky/stale-quote-windows)
+
+### Guides
+
+- [Latency Arbitrage: How It Works and How to Test It](https://westernpips.com/latency-arbitrage.html): costed examples, broker rules and a step-by-step broker test, based on the study above.
+
+### Tools used in the research
+
+- Ticks were recorded and analysed with the Analyser and [Back Tester](https://westernpips.com/wp7-back-tester.html) of [Westernpips Private 7](https://westernpips.com/wp7.html).
 
 ### Writing
 
